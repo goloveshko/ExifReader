@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <MultiSelectListPreference
+        android:dialogTitle="Select EXIF column to show"
+        android:key="preference_show_exif_columns"
+        android:summary=""
+        android:title="Show EXIF columns"/>
+</PreferenceScreen>
